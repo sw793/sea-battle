@@ -213,7 +213,6 @@ int main() {
 		if (player == 3){
 			cout << "Удачи.";
 		}
-
 	}
 	return 0;
 }
