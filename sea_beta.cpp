@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-	int player; //какой игрок
+	int player; // какой игрок
 	int x; // координата икс
 	int y; // координата игрик
 	int sum0 = 0; // сумма очков первого игрока
